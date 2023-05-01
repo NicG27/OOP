@@ -1,8 +1,6 @@
 # OOP
 
-
 # Object Oriented Programming 'List Manipulation' Assignment
-
 
 In this assignment, I created a Linked List class of Book objects in which various methods allow the user to manipulate the contents of these lists.
 
